@@ -5,6 +5,8 @@
 
 The Random Story Generator is a Python program designed to spark creativity and imagination by generating unique stories based on user input. Through a combination of predefined story templates and dynamic user interactions, the program facilitates an interactive storytelling experience that encourages users to become active participants in the creation process.
 
+#Vid demo : https://youtu.be/ust-RSvaYWM?si=nOtA0y5P-b3JiN7b
+
 ## How it Works
 I implement 3 functions tha work like :
 
